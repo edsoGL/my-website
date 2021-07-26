@@ -4,4 +4,4 @@ This is a really awesome website of Saulito
 
 Now edditing on update-readme branch
 
-Update locally
+Updates made on master on GitHub before rebase
